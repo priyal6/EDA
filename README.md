@@ -1,5 +1,7 @@
 ## Learn EDA in just 5 hours
 
+**Use CustomerChurn.csv for the EDA exercise**
+
 [![Alt text](https://github.com/pik1989/EDA/assets/34673684/fcf4d466-5343-41af-92f8-db469e9085e6)](https://youtube.com/watch?v=FNLLxYcUnow)
 
 #### 🔴 Detailed Session on EDA:
